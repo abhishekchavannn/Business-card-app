@@ -1,1 +1,1 @@
-# Business-card-app
+# Dice app
